@@ -1,4 +1,5 @@
-{"_comment" : "This is the Selenium Grid Hub",
+{
+  "_comment" : "This is the Famous Smoke Selenium Grid Hub",
   "maxSessions": 5,
   "port": 4444,
   "cleanupCycle": 5000,
@@ -8,4 +9,5 @@
   "prioritizer": null,
   "capabilityMatcher": "org.openqa.grid.internal.utils.DefaultCapabilityMatcher",
   "throwOnCapabilityNotPresent": true,
-  "nodePolling": 180000}
+  "nodePolling": 180000
+}
